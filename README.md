@@ -5,7 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muktadaali" alt="muktadaali" /></a> </p>
 
-I’m a web developer with 3+ years of experience building websites that are clean, responsive, easy to use, and built around real business needs.
+I started my journey in web development because I enjoy creating things that people can actually use.
+
+Over the years, I've worked with different types of websites, from simple business websites and landing pages to WordPress websites and e-commerce platforms.
+
+I care about the details that make a website better:
+
+* Clean and organized code
+* Responsive design
+* Fast and smooth user experience
+* Mobile-friendly layouts
+* Easy-to-manage WordPress websites
+* Clear communication with clients
+* Practical solutions instead of unnecessary complexity
+
+I'm always learning something new and improving the way I build websites..
 
 I enjoy taking an idea and turning it into a website that actually works well, looks professional, and feels good to use.
 
