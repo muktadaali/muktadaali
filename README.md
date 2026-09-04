@@ -5,12 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muktadaali" alt="muktadaali" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3,JaveScript, jQuery, PHP, WordPress MySQL Bootstrap**
+- Professional Web Developer | WordPress Developer
 
-- 💬 Ask me about **Web Design, Web Development, WordPress, Web Application**
+I’m a web developer with 3+ years of experience building websites that are clean, responsive, easy to use, and built around real business needs.
 
-- 📫 How to reach me **mdmuktadaali@gmail.com**
+I enjoy taking an idea and turning it into a website that actually works well, looks professional, and feels good to use.
 
+My main focus is WordPress development, responsive web design, front-end development, and e-commerce websites.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
